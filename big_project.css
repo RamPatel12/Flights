@@ -1,0 +1,89 @@
+#Flight{
+	text-align:center;
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	margin-left: 800px;
+	font-size:50px;
+	background-color: orange;
+}
+
+#Flight:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#About{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#About:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Home{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Home:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Contact{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Contact:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Details{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Details:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+body{
+	background:url(plane.jpeg);
+}
+
+h1{
+	color: orange;
+	text-align:center;
+}

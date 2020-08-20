@@ -1,0 +1,121 @@
+#About{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#About:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Home{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Home:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Contact{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Contact:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+#Details{
+	border-style: solid;
+	height: 20px;
+	border-width:2px;
+	border-color: black;
+	text-decoration: none;
+	color: black;
+	font-size:15px;
+	background-color: orange;
+	text-align:left;
+}
+
+#Details:hover{
+	box-shadow:10px 10px 15px black;
+}
+
+label{
+	font-family: Harrington;
+	font-size: 25px
+}
+
+legend{
+	font-family: Harrington;
+	font-weight: bold;
+	font-size: 50px;
+	font-style: italic;
+	text-align:center;
+}
+
+fieldset{
+	background-color: rgb(252, 186, 3);
+	width: 1350px;
+	height:800px;
+	border-width: 5px;
+	border-color: black;
+	border-style: double;
+}
+
+
+input{
+	border-width: 0px 0px 2px 0px;
+	height:30px;
+	margin: 10px;
+}
+
+#submit{
+	width:200px;
+	height: 50px;
+	background-color:rgb(233, 56, 242);
+}
+
+#submit[value]{
+	color: white;
+	font-weight: bold;
+	border-color: black;
+}
+
+
+textarea{
+	width: 1000px;
+	height: 450px;
+}
+
+input[placeholder],textarea[placeholder]{
+	font-family:'Annie Use Your Telescope' ;
+	font-size: 25px;
+}
+
+input:hover{
+	border-width: 0px 0px 2px 0px;
+	box-shadow:5px 0px 15px black;
+	border-color: grey;
+}
